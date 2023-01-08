@@ -1,0 +1,102 @@
+body{
+      background-color: #3AB0FF;
+}
+.first-page
+{
+  background-color: #3AB0FF;
+  text-align: center;
+
+
+}
+
+h2
+{
+ font-family: 'East Sea Dokdo',sans-serif ;
+ font-size: 30px;
+
+}
+.name
+{
+
+  font-family:'Passions Conflict',serif;
+  font-size: 90px;
+  text-shadow: 20px;
+  padding-top: 90px;
+}
+.giphy
+{
+  display: inline-block;
+  border-bottom: 100px;
+
+
+}
+.loading
+{
+  padding-top: 75px;
+}
+.clouds1
+{
+  display: inline-block;
+  position: absolute;
+  left:20px;
+}
+
+.clouds3
+{
+  display: inline-block;
+  position: absolute;
+  bottom:20px;
+  right: 200px;
+}
+.clouds4
+{
+  display: inline-block;
+  position: absolute;
+  top:50px;
+  left:350px;
+}
+.sun
+{
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+.skills
+{
+  background-color: white;
+  padding-bottom: 100px;
+}
+.second-page
+{
+  background-color:#3AB0FF ;
+}
+.bio
+{
+  font-size: 20px;
+  font-family: 'Sofia Sans Semi Condensed', sans-serif;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.clogo
+{
+
+  left: 40px;
+  display: block;
+  padding-bottom: 200px;
+}
+.hobbies
+{
+  font-family:'Passions Conflict',serif;
+  font-size: 100px;
+  color: #161853;
+}
+.List
+{
+  color:#334257;
+}
+.details
+{
+  font-family:'Passions Conflict',serif;
+  font-size: 100px;
+  color: #FF96AD;
+}
